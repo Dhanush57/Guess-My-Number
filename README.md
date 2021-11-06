@@ -26,6 +26,3 @@ This game was developed using javascript math.random that draws numbers randomly
 Live version of game:
 This game is hoisted by using Netlify, the live version of the game can be found here,
 https://compassionate-kirch-7f7af4.netlify.app/
-
-Demo:
-![guess the number](https://user-images.githubusercontent.com/91722353/140610670-6650cb57-b66e-444c-9623-4249d1497975.gif)
