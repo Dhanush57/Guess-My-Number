@@ -25,4 +25,4 @@ This game was developed using javascript math.random that draws numbers randomly
 
 Live version of game:
 This game is hoisted by using Netlify, the live version of the game can be found here,
-https://compassionate-kirch-7f7af4.netlify.app/
+https://guess-the-number-dhanush.netlify.app/
